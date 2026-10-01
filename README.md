@@ -2,6 +2,6 @@
 
 Versions:
 
-Windows - Close to release
-Linux - Soon
-MacOS - Soon
+Windows - Close to release 
+/ Linux - Soon 
+/ MacOS - Soon
